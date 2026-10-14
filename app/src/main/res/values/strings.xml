@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OJCM Covoiturage</string>
+    <string name="header_title">Covoiturage</string>
+    <string name="error_title">Connexion impossible</string>
+    <string name="error_text">Vérifie ta connexion internet, puis réessaie. Le site peut mettre jusqu\'à une minute à se réveiller.</string>
+    <string name="retry">Réessayer</string>
+</resources>
